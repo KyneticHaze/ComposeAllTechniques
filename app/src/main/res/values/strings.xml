@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeAllTechniques</string>
+    <string name="image_string_desc">Flowers</string>
+    <string name="image_string_title">This is flowers</string>
+</resources>
