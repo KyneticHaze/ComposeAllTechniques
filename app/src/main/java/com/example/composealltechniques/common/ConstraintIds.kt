@@ -1,4 +1,4 @@
-package com.example.composealltechniques
+package com.example.composealltechniques.common
 
 object ConstraintIds {
 

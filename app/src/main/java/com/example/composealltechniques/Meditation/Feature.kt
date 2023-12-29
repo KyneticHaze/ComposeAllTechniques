@@ -1,7 +1,6 @@
-package com.example.composealltechniques.meditationUI
+package com.example.composealltechniques.Meditation
 
 import androidx.annotation.DrawableRes
-import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 
 data class Feature(

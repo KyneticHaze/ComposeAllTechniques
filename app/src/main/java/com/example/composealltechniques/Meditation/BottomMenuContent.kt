@@ -1,4 +1,4 @@
-package com.example.composealltechniques.meditationUI
+package com.example.composealltechniques.Meditation
 
 import androidx.annotation.DrawableRes
 

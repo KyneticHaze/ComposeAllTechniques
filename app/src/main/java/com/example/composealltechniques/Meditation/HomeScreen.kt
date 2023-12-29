@@ -1,4 +1,4 @@
-package com.example.composealltechniques.meditationUI
+package com.example.composealltechniques.Meditation
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -8,11 +8,11 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import com.example.composealltechniques.R
-import com.example.composealltechniques.meditationUI.components.BottomMenu
-import com.example.composealltechniques.meditationUI.components.ChipSection
-import com.example.composealltechniques.meditationUI.components.CurrentMeditation
-import com.example.composealltechniques.meditationUI.components.FeatureSection
-import com.example.composealltechniques.meditationUI.components.GreetingSection
+import com.example.composealltechniques.Meditation.components.BottomMenu
+import com.example.composealltechniques.Meditation.components.ChipSection
+import com.example.composealltechniques.Meditation.components.CurrentMeditation
+import com.example.composealltechniques.Meditation.components.FeatureSection
+import com.example.composealltechniques.Meditation.components.GreetingSection
 import com.example.composealltechniques.ui.theme.Beige1
 import com.example.composealltechniques.ui.theme.Beige2
 import com.example.composealltechniques.ui.theme.Beige3

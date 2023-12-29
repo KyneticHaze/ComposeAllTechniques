@@ -1,4 +1,4 @@
-package com.example.composealltechniques.composetech
+package com.example.composealltechniques.ComposeTry.composetech
 
 import androidx.compose.animation.animateColor
 import androidx.compose.animation.animateColorAsState

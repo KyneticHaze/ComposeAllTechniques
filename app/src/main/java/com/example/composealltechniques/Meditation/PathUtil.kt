@@ -1,4 +1,4 @@
-package com.example.composealltechniques.meditationUI
+package com.example.composealltechniques.Meditation
 
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Path

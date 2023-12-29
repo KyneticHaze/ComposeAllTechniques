@@ -1,4 +1,4 @@
-package com.example.composealltechniques.meditationUI
+package com.example.composealltechniques.Meditation
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -12,7 +12,7 @@ import androidx.constraintlayout.compose.ChainStyle
 import androidx.constraintlayout.compose.ConstraintLayout
 import androidx.constraintlayout.compose.ConstraintSet
 import androidx.constraintlayout.compose.Dimension
-import com.example.composealltechniques.ConstraintIds
+import com.example.composealltechniques.common.ConstraintIds
 
 @Composable
 fun MeditationApp() {

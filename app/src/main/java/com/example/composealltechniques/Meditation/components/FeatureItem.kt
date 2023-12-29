@@ -1,4 +1,4 @@
-package com.example.composealltechniques.meditationUI.components
+package com.example.composealltechniques.Meditation.components
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
@@ -22,8 +22,8 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.composealltechniques.meditationUI.Feature
-import com.example.composealltechniques.meditationUI.standardQuadFromTo
+import com.example.composealltechniques.Meditation.Feature
+import com.example.composealltechniques.Meditation.standardQuadFromTo
 import com.example.composealltechniques.ui.theme.ButtonBlue
 import com.example.composealltechniques.ui.theme.TextWhite
 

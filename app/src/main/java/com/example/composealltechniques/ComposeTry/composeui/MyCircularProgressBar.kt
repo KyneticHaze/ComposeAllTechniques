@@ -1,4 +1,4 @@
-package com.example.composealltechniques.composeui
+package com.example.composealltechniques.ComposeTry.composeui
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween

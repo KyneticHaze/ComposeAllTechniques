@@ -1,4 +1,4 @@
-package com.example.composealltechniques.meditationUI.components
+package com.example.composealltechniques.Meditation.components
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -13,7 +13,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.composealltechniques.meditationUI.Feature
+import com.example.composealltechniques.Meditation.Feature
 import com.example.composealltechniques.ui.theme.TextWhite
 
 @Composable

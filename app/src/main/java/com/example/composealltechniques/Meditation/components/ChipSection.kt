@@ -1,4 +1,4 @@
-package com.example.composealltechniques.meditationUI.components
+package com.example.composealltechniques.Meditation.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable

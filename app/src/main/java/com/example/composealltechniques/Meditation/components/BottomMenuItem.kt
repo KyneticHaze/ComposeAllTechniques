@@ -1,4 +1,4 @@
-package com.example.composealltechniques.meditationUI.components
+package com.example.composealltechniques.Meditation.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -18,7 +18,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
-import com.example.composealltechniques.meditationUI.BottomMenuContent
+import com.example.composealltechniques.Meditation.BottomMenuContent
 import com.example.composealltechniques.ui.theme.AquaBlue
 import com.example.composealltechniques.ui.theme.ButtonBlue
 import com.example.composealltechniques.ui.theme.TextWhite
